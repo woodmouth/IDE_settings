@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JSON5" injector-id="java">
+      <display-name>StringEntity.StringEntity (org.apache.http.entity)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("StringEntity").withParameters("java.lang.String", "java.lang.String").definedInClass("org.apache.http.entity.StringEntity"))]]></place>
+    </injection>
+  </component>
+</application>
