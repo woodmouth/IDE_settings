@@ -4,7 +4,7 @@
     <property name="created">2019-07-26T21:07:04</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-11-30T12:06:27</property>
+    <property name="modified">2019-11-30T12:09:13</property>
     <property name="originalScheme">Material Solarized Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -28935,7 +28935,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="" />
+    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
@@ -29625,8 +29625,8 @@
         <option name="FOREGROUND" value="cb4b16" />
       </value>
     </option>
-    <option name="Scala Type Alias" baseAttributes="" />
-    <option name="Scala Type parameter" baseAttributes="" />
+    <option name="Scala Type Alias" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
+    <option name="Scala Type parameter" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="Scala XML Text">
       <value>
         <option name="FOREGROUND" value="2aa198" />
