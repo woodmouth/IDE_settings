@@ -4,12 +4,12 @@
     <property name="created">2019-07-26T21:07:04</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2020-01-16T12:27:11</property>
+    <property name="modified">2020-01-17T15:36:27</property>
     <property name="originalScheme">Material Solarized Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Hack" />
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <font>
