@@ -4,17 +4,17 @@
     <property name="created">2020-12-25T19:59:43</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2020-12-26T23:05:30</property>
+    <property name="modified">2020-12-27T21:53:49</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono NL" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_NAME" value="Hack" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
