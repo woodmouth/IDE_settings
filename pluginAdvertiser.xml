@@ -3081,7 +3081,7 @@
                   </entry>
                   <entry key="Application">
                     <value>
-                      <FeaturePluginData displayName="Codeforces" pluginName="EduTools" pluginId="com.jetbrains.edu" />
+                      <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" />
                     </value>
                   </entry>
                   <entry key="ArquillianJUnit">
@@ -3107,6 +3107,11 @@
                   <entry key="ChromiumRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
+                    </value>
+                  </entry>
+                  <entry key="Codeforces">
+                    <value>
+                      <FeaturePluginData displayName="Codeforces" pluginName="EduTools" pluginId="com.jetbrains.edu" />
                     </value>
                   </entry>
                   <entry key="CommandRunConfigurationType">
